@@ -1,0 +1,16 @@
+# Archivos compilados y ejecutables
+*.o
+*.out
+*.exe
+generador_jpg
+
+# Imágenes generadas
+# salida.jpg
+# grafica.png
+
+# Archivos temporales y del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración del editor
+.vscode/
